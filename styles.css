@@ -1,0 +1,77 @@
+* {
+    padding: 4px;
+}
+p {
+    padding: 0px;
+    margin: 0px;
+}
+.category {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.config {
+    background-color: orange !important;
+}
+#content {
+    margin-top: 30px;
+}
+.head {
+    display: flex;
+    flex-direction: row;
+}
+.hidden {
+    display: none;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+}
+#menu {
+    background-color: white;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99999;
+}
+.menu-item {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    margin: 8px;
+    cursor: pointer;
+}
+.mount {
+    height: fit-content;
+    border-style: dashed;
+    margin: 8px;
+}
+.name {
+    white-space: nowrap;
+}
+.owned-false {
+    color: red;
+}
+.owned-true {
+    color: green;
+}
+.owned-unknown {
+    color: darkviolet;
+}
+.trial {
+    text-align: center;
+    white-space: nowrap;
+}
+.unselected {
+    background-color: red;
+}
+.unselected-player {
+    opacity: 0.3;
+}

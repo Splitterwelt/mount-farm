@@ -1,0 +1,17 @@
+let players = [
+    {'id': '600548', 'name': 'Nara'},
+    {'id': '9032009', 'name': 'Fusilli'},
+    {'id': '13384470', 'name': 'Lerilia'},
+    {'id': '18221901', 'name': 'Kisa'},
+    {'id': '21341801', 'name': 'Asklepia'},
+    {'id': '24619857', 'name': 'Yumi Elly'},
+    {'id': '24774093', 'name': 'Tasent'},
+    {'id': '25058119', 'name': 'Rin'},
+    {'id': '30269699', 'name': 'Shara'},
+    {'id': '37145787', 'name': 'Amitab'},
+    {'id': '38869391', 'name': 'Elea'},
+    {'id': '39133081', 'name': 'Rael'},
+    {'id': '39785660', 'name': 'Albin Zaldo'},
+    {'id': '39827593', 'name': 'Minari Naru'},
+
+]
